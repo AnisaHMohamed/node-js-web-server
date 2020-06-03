@@ -1,0 +1,2 @@
+Hello I am a new file
+I was appended afterwards to the existing file
